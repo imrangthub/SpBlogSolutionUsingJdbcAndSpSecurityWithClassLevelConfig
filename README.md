@@ -1,0 +1,2 @@
+# SpBlogSolutionUsingJdbcAndSpSecurityWithClassLevelConfig
+SpBlogSolutionUsingJdbcAndSpSecurityWithClassLevelConfig
